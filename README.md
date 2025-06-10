@@ -1,1 +1,5 @@
-# 11ty WordPress Test
+---
+title: 11ty WordPress Test
+---
+
+# {{ title }}
